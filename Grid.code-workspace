@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Grid"
+		},
+		{
+			"path": "../../flex"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Grid"
+	}
+}
